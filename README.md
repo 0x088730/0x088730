@@ -77,8 +77,8 @@
 
 <h2> <img src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='32px' height=32px> GitHub Stats </h2>
 
-![Vamsi's github stats](https://github-readme-stats.vercel.app/api?username=Vamsi995&count_private=true&show_icons=true&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&line_height=20&card_width=350)
-![Vamsi's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi995&hide=Roff&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&count_private=true&card_width=350)
+![Vamsi's github stats](https://github-readme-stats.vercel.app/api?username=0x088730&count_private=true&show_icons=true&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&line_height=20&card_width=350)
+![Vamsi's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x088730&hide=Roff&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&count_private=true&card_width=350)
 
 
 <h2> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=30px> Connect with me  </h2>
