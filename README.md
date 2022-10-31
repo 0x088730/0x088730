@@ -84,6 +84,7 @@
 <h2> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=30px> Connect with me  </h2>
 <a href= mailto:noahsim0808@gmail.com> <img width ='52px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png'> </a>
 <a href= https://www.linkedin.com/in/noah-sim-86733a249/> <img width ='42px' height='42px' src  ='https://cdn-icons-png.flaticon.com/512/174/174857.png'> </a>
+<a href= https://poly.me/noah_sim/> <img width ='42px' height='42px' src  ='https://asset.brandfetch.io/idNBXwW0oc/idryUyCDc2.png'> </a>
 
 
 
