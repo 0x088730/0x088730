@@ -1,18 +1,17 @@
-<!-- ![header](https://raw.githubusercontent.com/0x088730/data/edda5b2fe79523d5faa0035b5e625e87675d7626/assets/api.svg) 
+![header](https://raw.githubusercontent.com/0x088730/data/edda5b2fe79523d5faa0035b5e625e87675d7626/assets/api.svg) 
 
-![](https://komarev.com/ghpvc/?username=0x048&label=PROFILE+VIEWS&color=dc143c) -->
+![](https://komarev.com/ghpvc/?username=0x048&label=PROFILE+VIEWS&color=dc143c)
 
-<!--
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines={Software+Development}+∪+{Research})](https://git.io/typing-svg)
 
--->
 
 <h2> <img src="https://cdn.edu.buncee.com/assets/48c9418aae96bd73814084fb7a379840/animation-imagination-speachbubble-0325820.gif" width=32px height=30px> About Me </h2>
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on deep learning/software designs
+- 🔭 I’m currently working on Web & Mobile App developer.
 - 🌱 I’m currently learning software design patterns
 - 👯 I’m looking to collaborate on deep learning research
 - 🤔 I’m looking for help with interview preparation
