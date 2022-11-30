@@ -1,11 +1,3 @@
-![header](https://raw.githubusercontent.com/0x088730/data/edda5b2fe79523d5faa0035b5e625e87675d7626/assets/api.svg) 
-
-![](https://komarev.com/ghpvc/?username=0x048&label=PROFILE+VIEWS&color=dc143c)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines={Software+Development}+∪+{Research})](https://git.io/typing-svg)
-
-
 <h2> <img src="https://cdn.edu.buncee.com/assets/48c9418aae96bd73814084fb7a379840/animation-imagination-speachbubble-0325820.gif" width=32px height=30px> About Me </h2>
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
@@ -81,10 +73,6 @@
 ![Vamsi's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x088730&hide=Roff&bg_color=DEG,5A2B7A,9D1B27,A57434&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&layout=compact&include_all_commits=true&count_private=true&card_width=350)
 
 
-<h2> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=30px> Connect with me  </h2>
-<a href= mailto:noahsim0808@gmail.com> <img width ='52px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png'> </a>
-<a href= https://www.linkedin.com/in/noah-sim-86733a249/> <img width ='42px' height='42px' src  ='https://cdn-icons-png.flaticon.com/512/174/174857.png'> </a>
-<a href= https://poly.me/noah_sim/> <img width ='42px' height='42px' src  ='https://asset.brandfetch.io/idNBXwW0oc/idryUyCDc2.png'> </a>
 
 
 
